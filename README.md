@@ -1,4 +1,4 @@
-### Vedant Akare
+# Vedant Akare
 ## Web Developer
 I'm Vedant from India, and I work on web Development projects. I really enjoy learning languages and frameworks like Python and Django, as well as Javascript and NodeJs. I am also familiar with database management system languages like SQL. I also enjoy wireframing, UI, UX, and design in general.
 
